@@ -2,9 +2,6 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-
 
 # DFT Introduction
 
@@ -21,10 +18,3 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 <dd>Calculation based material design and innovation.</dd>
 </dl>
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```

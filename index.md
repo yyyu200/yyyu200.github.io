@@ -9,7 +9,14 @@ layout: default
 * * *
 
 ![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-<img src="https://tb2.bdstatic.com/tb/static-common/img/search_logo_big_v1_8d039f9.png" width="200" hegiht="100" align=center >
+
+
+<p align="center">
+    <img src="https://tb2.bdstatic.com/tb/static-common/img/search_logo_big_v1_8d039f9.png" alt="Sample"  width="250" height="140">
+    <p align="center">
+        <em>Partner</em>
+    </p>
+</p>
 
 <dl>
 <dt>Motivation</dt>

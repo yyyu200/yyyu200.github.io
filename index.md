@@ -13,7 +13,7 @@ layout: default
 
 <p align="center">
     <img src="https://tb2.bdstatic.com/tb/static-common/img/search_logo_big_v1_8d039f9.png" alt="Sample"  width="60" height="30">
-    <p align="center">
+    <p align="left">
         <em>Partner</em>
     </p>
 </p>

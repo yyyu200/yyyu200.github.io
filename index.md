@@ -2,14 +2,11 @@
 layout: default
 ---
 
-
 # DFT Introduction
-
-[quantum_espresso](http://tieba.baidu.com/f?kw=quantum_espresso) Baidu 贴吧.
 
 [DFTbook](./DFTbook/).
 
-
+[quantum_espresso](http://tieba.baidu.com/f?kw=quantum_espresso) Baidu 贴吧.
 
 * * *
 

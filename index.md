@@ -11,7 +11,7 @@ layout: default
 * * *
 
 ![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
+![](https://tb2.bdstatic.com/tb/static-common/img/search_logo_big_v1_8d039f9.png)
 
 <dl>
 <dt>Motivation</dt>

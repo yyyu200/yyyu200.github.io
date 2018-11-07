@@ -12,7 +12,7 @@ layout: default
 
 
 <p align="center">
-    <img src="https://tb2.bdstatic.com/tb/static-common/img/search_logo_big_v1_8d039f9.png" alt="Sample"  width="250" height="140">
+    <img src="https://tb2.bdstatic.com/tb/static-common/img/search_logo_big_v1_8d039f9.png" alt="Sample"  width="120" height="50">
     <p align="center">
         <em>Partner</em>
     </p>

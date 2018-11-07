@@ -2,8 +2,6 @@
 layout: default
 ---
 
-# DFT Introduction
-
 [DFTbook](./DFTbook/).
 
 [quantum_espresso](http://tieba.baidu.com/f?kw=quantum_espresso) Baidu 贴吧.

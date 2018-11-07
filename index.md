@@ -5,7 +5,10 @@ layout: default
 
 # DFT Introduction
 
+[QE Baidu quantum_espresso tieba](http://tieba.baidu.com/f?kw=quantum_espresso&fr=index&).
+
 [DFTbook](./DFTbook/).
+
 
 
 * * *

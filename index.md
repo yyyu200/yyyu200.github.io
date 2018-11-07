@@ -6,6 +6,12 @@ layout: default
 
 [quantum_espresso](http://tieba.baidu.com/f?kw=quantum_espresso)
 
+[QE official](http://www.quantum-espresso.org/)
+
+[Doc for QE](http://www.quantum-espresso.org/Doc/pw_user_guide/)
+
+[Input for PW](http://www.quantum-espresso.org/Doc/INPUT_PW.html)
+
 * * *
 
 <dl>

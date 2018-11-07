@@ -2,9 +2,9 @@
 layout: default
 ---
 
-[DFTbook](./DFTbook/).
+[DFTbook](./DFTbook/)
 
-[quantum_espresso](http://tieba.baidu.com/f?kw=quantum_espresso) Baidu 贴吧.
+[quantum_espresso](http://tieba.baidu.com/f?kw=quantum_espresso)
 
 * * *
 

@@ -10,8 +10,6 @@ layout: default
 
 [Doc for QE](http://www.quantum-espresso.org/Doc/pw_user_guide/)
 
-[Input for PW](./QE6.0Doc/INPUT_PW.html)
-
 * * *
 
 <dl>

@@ -1,7 +1,13 @@
 ---
 layout: default
+published: true
 ---
 
+
+#Machine Learning
+[TensorFlow jotter](./TF)
+
+#Total energy and force
 [DFTbook](./DFTbook/)
 
 [quantum_espresso](http://tieba.baidu.com/f?kw=quantum_espresso) | [QE official](http://www.quantum-espresso.org/) | [Doc for QE](http://www.quantum-espresso.org/Doc/pw_user_guide/) | [Input for pw](./QE6.0Doc/INPUT_PW.html)
@@ -26,5 +32,3 @@ layout: default
         <em>Partner</em>
     </p>
 </p>
-
-

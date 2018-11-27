@@ -5,7 +5,7 @@ published: true
 
 
 ## Machine Learning
-[TensorFlow jotter](./TF)
+[TensorFlow jotter](./TFjotter)
 
 ## Total energy and force
 [DFTbook](./DFTbook/)

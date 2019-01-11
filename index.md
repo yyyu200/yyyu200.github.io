@@ -4,6 +4,7 @@ published: true
 ---
 
 
+
 ## Machine Learning
 [TensorFlow jotter](./TFjotter)
 
@@ -22,6 +23,12 @@ published: true
 </dl>
 
 * * *
+<p align="left">
+    <img src="./docs/微信图片_20190111152856.jpg" alt="Sample"  width="80" height="30">
+    <p align="left">
+        <em>Partner</em>
+    </p>
+</p>
 
 ![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
 

@@ -24,7 +24,7 @@ published: true
 
 * * *
 <p align="left">
-    <img src="./docs/微信图片_20190111152856.jpg" alt="Sample"  width="200" height="300">
+    <img src="./docs/微信图片_20190111152856.jpg" alt="Sample"  width="240" height="300">
     <p align="left">
         <em>Partner</em>
     </p>

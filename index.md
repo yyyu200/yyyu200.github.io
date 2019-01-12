@@ -5,6 +5,7 @@ published: true
 
 
 
+
 ## Machine Learning
 [TensorFlow jotter](./TFjotter)
 
@@ -29,6 +30,10 @@ published: true
         <em>Partner</em>
     </p>
 </p>
+
+
+QQ群号：533372531
+
 
 ![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
 

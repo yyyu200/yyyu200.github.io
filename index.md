@@ -17,8 +17,8 @@ published: true
 * * *
 
 <dl>
-<dt>Motivation</dt>
-<dd>Calculation-driven material design and innovation</dd>
+<dt>QQ group No.(群号)</dt>
+<dd>533372531</dd>
 <dt>Email</dt>
 <dd>yyyu200@163.com</dd>
 </dl>
@@ -26,13 +26,9 @@ published: true
 * * *
 <p align="left">
     <img src="./docs/微信图片_20190111152856.jpg" alt="Sample"  width="240" height="300">
-    <p align="left">
-        <em>Partner</em>
-    </p>
 </p>
 
 
-QQ群号：533372531
 
 
 ![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)

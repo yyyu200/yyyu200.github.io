@@ -19,7 +19,7 @@ published: true
 <dl>
 <dt>Email</dt>
 <dd>yyyu200@163.com</dd>
-<dt>Tencent QQ group No.(群号)</dt>
+<dt>QQ group No.</dt>
 <dd>533372531</dd>
 </dl>
 <p align="left">

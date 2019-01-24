@@ -21,6 +21,7 @@ published: true
 <dd>yyyu200@163.com</dd>
 <dt>QQ group No.</dt>
 <dd>533372531</dd>
+<dt>Wechat group</dt>
 </dl>
 <p align="left">
     <img src="./docs/微信图片_20190111152856.jpg" alt="Sample"  width="240" height="300">

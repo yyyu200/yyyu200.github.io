@@ -10,9 +10,8 @@ published: true
 [TensorFlow jotter](./TFjotter)
 
 ## Total energy and force
-[DFTbook](./DFTbook/)
 
-[qe@Baidu](http://tieba.baidu.com/f?kw=quantum_espresso) | [QE official](http://www.quantum-espresso.org/) | [Doc for QE](http://www.quantum-espresso.org/Doc/pw_user_guide/) | [Input for pw](./QE6.0Doc/INPUT_PW.html)
+[qe@Baidu](http://tieba.baidu.com/f?kw=quantum_espresso)
 
 * * *
 ### contact information

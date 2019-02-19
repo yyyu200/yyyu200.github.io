@@ -32,7 +32,7 @@ published: true
 
 
 
-![Octocat](./docs/github_logo.png)
+![Octocat]("./docs/github_logo.png")
 
 
 <p align="left">

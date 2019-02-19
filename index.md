@@ -7,7 +7,7 @@ published: true
 
 
 ## Machine Learning
-[TensorFlow jotter](./TFjotter)
+[TensorFlow](./TFjotter)
 
 ## Total energy and force
 
@@ -29,7 +29,7 @@ published: true
 
 * * *
 <p align="left">
-    <img src="./docs/github_logo.png" alt="Sample"  width="200" height="200">
+    <img src="./docs/github_logo.png" alt="Sample"  width="100" height="100">
 </p>
 
 

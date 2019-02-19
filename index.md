@@ -28,11 +28,9 @@ published: true
 
 
 * * *
-
-
-
-
-![Octocat]("./docs/github_logo.png")
+<p align="left">
+    <img src="./docs/github_logo.png" alt="Sample"  width="200" height="200">
+</p>
 
 
 <p align="left">

@@ -23,13 +23,13 @@ published: true
 <dt>Wechat group</dt>
 </dl>
 <p align="left">
-    <img src="./docs/微信图片_20190111152856.jpg" alt="Sample"  width="240" height="300">
+    <img src="./assets/wechat_pic.jpg" alt="Sample"  width="240" height="300">
 </p>
 
 
 * * *
 <p align="left">
-    <img src="./docs/github_logo.png" alt="Sample"  width="100" height="100">
+    <img src="./assets/github_logo.png" alt="Sample"  width="100" height="100">
 </p>
 
 

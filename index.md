@@ -7,7 +7,7 @@ published: true
 
 
 ## 机器学习 Machine Learning 
-[TensorFlow](./TFjotter)
+[深度学习札记](./TFjotter)
 
 ## 总能和力 Total energy and force
 

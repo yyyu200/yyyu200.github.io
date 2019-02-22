@@ -6,12 +6,14 @@ published: true
 
 
 
-## Machine Learning
+## 机器学习 Machine Learning 
 [TensorFlow](./TFjotter)
 
-## Total energy and force
+## 总能和力 Total energy and force
 
 [qe@Baidu](http://tieba.baidu.com/f?kw=quantum_espresso)
+
+## 计算谱学
 
 * * *
 ### contact information

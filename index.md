@@ -11,9 +11,10 @@ published: true
 
 ## 总能和力 Total energy and force
 
-[qe@Baidu](http://tieba.baidu.com/f?kw=quantum_espresso)
+[DFT简介](https://yyyu200.gitee.io/tf)
 
 ## 计算谱学
+[QE@Baidu 百度贴吧](http://tieba.baidu.com/f?kw=quantum_espresso)
 
 * * *
 ### contact information

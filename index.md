@@ -11,7 +11,7 @@ published: true
 
 ## 总能和力 Total energy and force
 
-[DFT简介](https://yyyu200.gitee.io/tf)
+[DFT简介](https://yyyu200.github.io/dft/)
 
 ## 计算谱学
 [QE@Baidu 百度贴吧](http://tieba.baidu.com/f?kw=quantum_espresso)

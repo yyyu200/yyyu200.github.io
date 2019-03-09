@@ -7,7 +7,7 @@ published: true
 
 
 ## 机器学习 Machine Learning 
-[深度学习札记](./TFjotter)
+[深度学习札记](http://yyyu200.gitee.io/tfjotter)
 
 ## 总能和力 Total energy and force
 

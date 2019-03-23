@@ -22,7 +22,9 @@ What I cannot compute I don\'t understand.
 <dd>yyyu200@163.com</dd>
 <dt>QQ group No.</dt>
 <dd>533372531</dd>
+
 * * *
+
 <p align="left">
     <img src="./assets/images/github_logo.png" alt="Sample"  width="100" height="100">
 </p>

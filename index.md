@@ -3,7 +3,7 @@ layout: default
 published: true
 ---
 
-**What I cannot compute I don\'t understand.**
+*What I cannot compute I don\'t understand.*
 
 ## 机器学习 Machine Learning 
 [深度学习札记](http://yyyu200.gitee.io/tfjotter)
@@ -18,6 +18,7 @@ published: true
 * * *
 
 ### contact information
+
 <dl>
 <dt>Email</dt>
 <dd>yyyu200@163.com</dd>

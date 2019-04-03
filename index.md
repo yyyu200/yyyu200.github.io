@@ -23,7 +23,7 @@ published: true
 <dt>Email</dt>
 <dd>yyyu200@163.com</dd>
 <dt>QQ group No.</dt>
-<dd>533372531</dd>
+<dd>533372531 (QE交流群)</dd>
 </dl>
 
 * * *

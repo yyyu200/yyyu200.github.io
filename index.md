@@ -30,7 +30,7 @@ published: true
 
 <p align="left">
     <p align="left">
-        <em>Partner</em>
+        <strong><em>Partner</em></strong>
     </p>
     <img src="./assets/images/github_logo.png" alt="Git Pages"  width="100" height="100">
     <img src="https://tb2.bdstatic.com/tb/static-common/img/search_logo_big_v1_8d039f9.png" alt="Baidu Tieba"  width="80" height="30">

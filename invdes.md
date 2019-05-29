@@ -11,15 +11,15 @@ published: true
 
 全新物质形式的诞生将彻底改变我们对基础物理学的认知，其中包括拥有拓扑性质的材料，这些材料由于原子位置的对称性而能够产生不同寻常的电子特性。其它形式如量子自旋液体和新型超导体也能带来技术变革。几十年前，我们不太费力就能发现具有简单特性的材料；今时今日，只有在材料世界挖得更深，才能找到新的宝藏。
 
-![材料的直接设计与反向设计](assets/images/invdesign.png "optional title")
+![材料的直接设计与反向设计](assets/images/invdesign.png "InverseDesignPicture")
 
 
 
 Reference: 
 
-A. Zunger, Nature 566, 447-449 (2019). [阅读原文](https://www.nature.com/articles/d41586-019-00676-y)
+[1] Zunger, A., Beware of plausible predictions of fantasy materials. Nature 566, 447-449 (2019). [阅读原文](https://www.nature.com/articles/d41586-019-00676-y)
 
-Zunger, A., Inverse design in search of materials with target functionalities. Nat. Rev. Chem. 2, 0121 (2018).
+[2](https://www.nature.com/articles/s41570-018-0121) Zunger, A., Inverse design in search of materials with target functionalities. Nat. Rev. Chem. 2, 0121 (2018).
 
 
 [返回首页](./index.md)

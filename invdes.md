@@ -19,7 +19,7 @@ Reference:
 
 [1] Zunger, A., Beware of plausible predictions of fantasy materials. Nature 566, 447-449 (2019). [阅读原文](https://www.nature.com/articles/d41586-019-00676-y)
 
-[2](https://www.nature.com/articles/s41570-018-0121) Zunger, A., Inverse design in search of materials with target functionalities. Nat. Rev. Chem. 2, 0121 (2018).
+[[2]](https://www.nature.com/articles/s41570-018-0121) Zunger, A., Inverse design in search of materials with target functionalities. Nat. Rev. Chem. 2, 0121 (2018).
 
 
 [返回首页](./index.md)

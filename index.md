@@ -9,7 +9,6 @@ published: true
 [深度学习札记](http://yyyu200.gitee.io/tfjotter)
 
 ## 总能和力 Total energy and force
-
 [DFT简介](https://yyyu200.github.io/DFTbook/)|[QE实践详解](https://yyyu200.github.io/DFTbook/blogs/2019/04/01/HandsOn/)
 
 ## 计算谱学

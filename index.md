@@ -3,7 +3,7 @@ layout: default
 published: true
 ---
 
-*What I cannot compute I don\'t understand.*
+*What I cannot compute I don<&rsquo>t understand.*
 
 ## 机器学习 Machine Learning 
 [深度学习札记](http://yyyu200.gitee.io/tfjotter)
@@ -13,7 +13,7 @@ published: true
 [DFT简介](https://yyyu200.github.io/DFTbook/) | [QE实践详解](https://yyyu200.github.io/DFTbook/blogs/2019/04/01/HandsOn/)
 
 ## 计算谱学
-[QE@Baidu 百度贴吧](http://tieba.baidu.com/f?kw=quantum_espresso)
+[QE@Baidu 百度贴吧](http://tieba.baidu.com/f?kw=quantum_espresso)|[材料反向设计](./invdes.md)
 
 * * *
 

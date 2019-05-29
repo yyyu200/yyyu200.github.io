@@ -13,3 +13,6 @@ published: true
 Reference: A. Zunger, Nature 566, 447-449 (2019).
 
 [阅读原文](https://www.nature.com/articles/d41586-019-00676-y)
+
+
+[返回首页](./index.md)

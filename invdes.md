@@ -13,7 +13,7 @@ published: true
 
 ![材料的直接设计与反向设计](assets/images/invdesign.png "InverseDesignPicture")
 
-
+$Vext=∑−Z_alpha/|r-R|$
 
 Reference: 
 

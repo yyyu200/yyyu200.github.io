@@ -13,8 +13,6 @@ published: true
 
 ![材料的直接设计与反向设计](assets/images/invdesign.png "InverseDesignPicture")
 
-$Vext=∑−Z_alpha/|r-R|$
-
 Reference: 
 
 [1] Zunger, A., *Beware of plausible predictions of fantasy materials.* Nature **566**, 447-449 (2019). [阅读原文](https://www.nature.com/articles/d41586-019-00676-y)

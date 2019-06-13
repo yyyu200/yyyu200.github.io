@@ -37,7 +37,6 @@ comments: true
     <img src="https://sqimg.qq.com/qq_product_operations/im/qqlogo/imlogo_b.png" alt="TecentQQ"  width="93" height="44">
 </p>
 
-{% if page.comments %}
 <div id="disqus_thread"></div>
 <script>
 
@@ -54,7 +53,6 @@ s.setAttribute('data-timestamp', +new Date());
 })();
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-{% endif %}
 
 <script id="dsq-count-scr" src="//yyyu200.disqus.com/count.js" async></script>
 

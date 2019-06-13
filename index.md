@@ -37,5 +37,4 @@ comments: true
     <img src="https://sqimg.qq.com/qq_product_operations/im/qqlogo/imlogo_b.png" alt="TecentQQ"  width="93" height="44">
 </p>
 
-<a href="https://yyyu200.github.io/index.html#disqus_thread">Link</a>
 

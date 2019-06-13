@@ -56,5 +56,5 @@ s.setAttribute('data-timestamp', +new Date());
 
 <script id="dsq-count-scr" src="//yyyu200.disqus.com/count.js" async></script>
 
-<a href="http://foo.com/bar.html#disqus_thread">Link</a>
+<a href="https://yyyu200.github.io/index.html#disqus_thread">Link</a>
 

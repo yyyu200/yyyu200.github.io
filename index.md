@@ -55,3 +55,8 @@ s.setAttribute('data-timestamp', +new Date());
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 {% endif %}
+
+<script id="dsq-count-scr" src="//yyyu200.disqus.com/count.js" async></script>
+
+<a href="http://foo.com/bar.html#disqus_thread">Link</a>
+

@@ -10,7 +10,7 @@ comments: true
 [深度学习札记](http://yyyu200.gitee.io/tfjotter)
 
 ## 总能和力 Total energy and force
-[DFT简介](https://yyyu200.github.io/DFTbook/)|[QE实践详解](https://yyyu200.github.io/DFTbook/blogs/2019/04/01/HandsOn/)
+[DFT简介](https://yyyu200.github.io/DFTbook/)|[QE实践详解](https://yyyu200.github.io/DFTbook/blogs/2019/04/01/HandsOn/)<img src="./assets/images/hot.gif" alt="hot"  width="21" height="16">
 
 ## 计算谱学
 [QE@Baidu 百度贴吧](http://tieba.baidu.com/f?kw=quantum_espresso)|[材料反向设计](./invdes.md)
@@ -36,5 +36,4 @@ comments: true
     <img src="https://tb2.bdstatic.com/tb/static-common/img/search_logo_big_v1_8d039f9.png" alt="Baidu Tieba"  width="135" height="45">
     <img src="https://sqimg.qq.com/qq_product_operations/im/qqlogo/imlogo_b.png" alt="TecentQQ"  width="93" height="44">
 </p>
-
 

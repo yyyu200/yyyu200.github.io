@@ -19,5 +19,6 @@ Reference:
 
 [2] Zunger, A., *Inverse design in search of materials with target functionalities.* [Nat. Rev. Chem. **2**, 0121 (2018)](https://www.nature.com/articles/s41570-018-0121).
 
+[3] Benjamin Sanchez-Lengeling, Alán Aspuru-Guzik, *Inverse molecular design using machine learning: Generative models for matter engineering.* Science  27 Jul 2018: Vol. 361, Issue 6400, pp. 360-365 DOI: 10.1126/science.aat2663.
 
 [返回首页](./index.md)

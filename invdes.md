@@ -22,6 +22,6 @@ Reference:
 
 快速发展的人工智能领域的最新进展，尤其是来自机器学习的子领域，已经产生了丰富的思想交流，分子反向设计的方法正在快速提出和使用。 其中，深度生成模型已应用于多种材料：合理设计预期药物，合成有机化合物途径，优化光伏和氧化还原液流电池，以及各种其他固态材料[3]。
 
-[3] Benjamin Sanchez-Lengeling, Alán Aspuru-Guzik, *Inverse molecular design using machine learning: Generative models for matter engineering.* Science  27 Jul 2018: Vol. 361, Issue 6400, pp. 360-365 DOI: 10.1126/science.aat2663.
+[3] Benjamin Sanchez-Lengeling, Alán Aspuru-Guzik, *Inverse molecular design using machine learning: Generative models for matter engineering.* Science  27 Jul 2018: Vol. 361, Issue 6400, pp. 360-365 DOI: [10.1126/science.aat2663](https://dx.doi.org/10.1126/science.aat2663).
 
 [返回首页](./index.md)

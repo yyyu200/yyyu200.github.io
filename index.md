@@ -13,7 +13,7 @@ comments: true
 [DFT简介](https://yyyu200.github.io/DFTbook/)|[QE实践详解](https://yyyu200.github.io/DFTbook/blogs/2019/04/01/HandsOn/) <img src="./assets/images/017.gif" alt="hot"  width="21" height="16">
 
 ## 计算谱学
-[QE@Baidu 百度贴吧](http://tieba.baidu.com/f?kw=quantum_espresso)|[高通量计算](./high_throughput.md)
+[QE@Baidu 百度贴吧](http://tieba.baidu.com/f?kw=quantum_espresso)|[高通量计算](./high_throughput.md)|[知乎专栏](https://zhuanlan.zhihu.com/kexueshikejizhexue)
 
 * * *
 

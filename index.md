@@ -22,8 +22,8 @@ comments: true
 <dl>
 <dt>Email</dt>
 <dd>yyyu200@163.com</dd>
-<dt>QQ group No.</dt>
-<dd>533372531 (QE交流群)</dd>
+<dt>QQ群</dt>
+<dd>533372531 (QE交流群，加群请备注材料计算)</dd>
 </dl>
 
 * * *

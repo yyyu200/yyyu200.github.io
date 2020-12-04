@@ -10,7 +10,7 @@ comments: true
 [深度学习札记](http://yyyu200.gitee.io/tfjotter)
 
 ## 总能和力 Total energy and force
-[DFT简介](https://yyyu200.github.io/DFTbook/)|[在线建模工具](http://117.51.145.214/)|[建模方法](https://yyyu200.github.io/DFTbook/blogs/2019/04/07/TransCell/)|[QE实践详解](https://yyyu200.github.io/DFTbook/blogs/2019/04/01/HandsOn/) <img src="./assets/images/017.gif" alt="hot"  width="21" height="16">
+[QE系列教程](https://yyyu200.github.io/DFTbook/)|[在线建模工具QEtoolkit](http://117.51.145.214/)|[建模教程](https://yyyu200.github.io/DFTbook/blogs/2019/04/07/TransCell/)|[QE实践详解](https://yyyu200.github.io/DFTbook/blogs/2019/04/01/HandsOn/) <img src="./assets/images/017.gif" alt="hot"  width="21" height="16">
 
 ## 计算谱学
 [QE@Baidu 百度贴吧](http://tieba.baidu.com/f?kw=quantum_espresso)|[高通量计算](./high_throughput.md)|[知乎专栏](https://zhuanlan.zhihu.com/kexueshikejizhexue)

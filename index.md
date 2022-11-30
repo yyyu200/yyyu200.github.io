@@ -13,7 +13,7 @@ comments: true
 [QE系列教程](https://yyyu200.github.io/DFTbook/)|[在线建模工具QEtoolkit](http://www.densityflow.com/)|[建模教程](https://yyyu200.github.io/DFTbook/blogs/2019/04/07/TransCell/)|[QE实践详解](https://yyyu200.github.io/DFTbook/blogs/2019/04/01/HandsOn/) <img src="./assets/images/017.gif" alt="hot"  width="21" height="16">
 
 ## 计算谱学
-[QE@Baidu 百度贴吧](http://tieba.baidu.com/f?kw=quantum_espresso)|[高通量计算](./high_throughput.md)|[知乎专栏](https://zhuanlan.zhihu.com/kexueshikejizhexue)
+[QE@Baidu 百度贴吧](http://tieba.baidu.com/f?kw=quantum_espresso)|[高通量计算](./high_throughput.md)|[知乎专栏](https://zhuanlan.zhihu.com/kexueshikejizhexue)|[付费咨询](https://www.zhihu.com/consult/people/1162034350035296256)
 
 * * *
 
